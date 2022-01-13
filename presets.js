@@ -48,7 +48,7 @@ var presets = {
   ],
   "Golems": [
     "Enemy_Golem"
-  ]
+  ],
   "Overworld Bosses": [
     "Enemy_Giant_Bone",
     "Enemy_Giant_Bone_AllDay",
